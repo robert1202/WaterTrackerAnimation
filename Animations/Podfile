@@ -1,0 +1,18 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, "8.0"
+use_frameworks!
+
+target :"Animations" do
+pod "PKHUD"
+#pod "SnapKit"
+#pod "ObjectMapper"
+#pod "Kingfisher"
+#pod "SKPhotoBrowser"
+##    pod "RxSwift"
+##    pod "RxCocoa"
+#pod "Alamofire"
+#pod "IQKeyboardManagerSwift"
+#pod "AlamofireNetworkActivityIndicator"
+#    pod "RACollectionViewReorderableTripletLayout"
+end
+
